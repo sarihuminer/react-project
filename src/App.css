@@ -13,6 +13,13 @@
 .song:active {
     background-color:darkorchid;
 }
+#listH1:hover,
+#listH1:active {
+  font-size: 80px;
+  color: crimson;
+}
+
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -27,7 +34,13 @@
 .App-link {
   color: #61dafb;
 }
-
+.edit{
+  direction: rtl;
+}
+.inputs{
+  border-radius: 15%;
+  margin: 5px;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

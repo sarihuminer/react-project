@@ -1,7 +1,7 @@
 import React ,{componnet, Component} from 'react'
 import Song from './song'
 import axios from '../axios'
-
+import Edit from './editSong'
 class Songs extends Component{
 
     state={
@@ -28,9 +28,9 @@ const son= this.state.songs.map(s=>{
   })
 return(
     <div>
-        <h1>:רשימת השירים שלי</h1>
+        <h1 id="listH1">:רשימת השירים שלי</h1>
         {son}
-        
+        <Edit id={this.state.selectedSong}></Edit>
     </div>
 );
 

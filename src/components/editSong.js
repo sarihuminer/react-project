@@ -18,14 +18,14 @@ componentDidUpdate(){
 
 render(){
     return(
-        <div>
+        <div className="edit">
 <form>
     <label>שם</label>
-    <input type="text"></input>
-    <label>זמר</label>
-    <input type="text"></input>
+    <input className="inputs" type="text"></input>
+    <label >זמר</label>
+    <input className="inputs" type="text"></input>
     <label>נוצר בשנת</label>
-    <input type="text"></input>
+    <input className="inputs" type="text"></input>
     
 </form>
         </div>
