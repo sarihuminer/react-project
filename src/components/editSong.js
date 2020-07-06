@@ -26,7 +26,8 @@ render(){
     <input className="inputs" type="text"></input>
     <label>נוצר בשנת</label>
     <input className="inputs" type="text"></input>
-    
+    <button className="btn">שמירה</button>
+    <button className="btn">ביטול</button>
 </form>
         </div>
     );

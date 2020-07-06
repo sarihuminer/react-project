@@ -19,7 +19,14 @@
   color: crimson;
 }
 
-
+.btn{
+  border-radius: 50%;
+  background-color: deepskyblue;
+  color: #282c34;
+  font-weight: bold;
+  font-size: 20px;
+  margin: 2px;
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -40,6 +47,8 @@
 .inputs{
   border-radius: 15%;
   margin: 5px;
+  font-size: 14px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 @keyframes App-logo-spin {
   from {

@@ -13,7 +13,7 @@ const rootReducer=(state=initialState,action)=>{
                     ...state,
                     counter:state.counter-1
                 };  
-                case 'ALTER':
+                case 'EDIT':
             return{
                 ...state,
                 counter:state.counter-action.value
