@@ -22,7 +22,7 @@ const rootReducer=(state=initialState,action)=>{
                 console.log('load')
                 return{
                     ...state,
-                    song:action.value,
+                    songs:action.value,
                     
                 }; 
             

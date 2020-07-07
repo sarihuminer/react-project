@@ -20,7 +20,7 @@ selectedSong:null
      
 selectedHandler=(id)=>{
     this.setState({selectedSong:id})
-console.log(this.state.selectedSong);
+console.log(id);
 }
 
 render(){
