@@ -1,0 +1,316 @@
+C:\Users\User\source\repos\React\bin\React.dll.config
+C:\Users\User\source\repos\React\bin\React.dll
+C:\Users\User\source\repos\React\bin\React.pdb
+C:\Users\User\source\repos\React\bin\roslyn\csc.exe
+C:\Users\User\source\repos\React\bin\roslyn\csc.exe.config
+C:\Users\User\source\repos\React\bin\roslyn\csc.rsp
+C:\Users\User\source\repos\React\bin\roslyn\csi.exe
+C:\Users\User\source\repos\React\bin\roslyn\csi.exe.config
+C:\Users\User\source\repos\React\bin\roslyn\csi.rsp
+C:\Users\User\source\repos\React\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\source\repos\React\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\source\repos\React\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\source\repos\React\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\source\repos\React\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\source\repos\React\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\source\repos\React\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\source\repos\React\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\source\repos\React\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\source\repos\React\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\source\repos\React\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\source\repos\React\bin\roslyn\System.AppContext.dll
+C:\Users\User\source\repos\React\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\source\repos\React\bin\roslyn\System.Console.dll
+C:\Users\User\source\repos\React\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\source\repos\React\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\source\repos\React\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\source\repos\React\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\source\repos\React\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\source\repos\React\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\User\source\repos\React\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\source\repos\React\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\source\repos\React\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\source\repos\React\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\source\repos\React\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\source\repos\React\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\source\repos\React\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\source\repos\React\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\source\repos\React\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\source\repos\React\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\source\repos\React\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\source\repos\React\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\source\repos\React\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\source\repos\React\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\source\repos\React\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\source\repos\React\bin\roslyn\vbc.exe
+C:\Users\User\source\repos\React\bin\roslyn\vbc.exe.config
+C:\Users\User\source\repos\React\bin\roslyn\vbc.rsp
+C:\Users\User\source\repos\React\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\source\repos\React\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\source\repos\React\bin\Antlr3.Runtime.dll
+C:\Users\User\source\repos\React\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\source\repos\React\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\source\repos\React\bin\Newtonsoft.Json.dll
+C:\Users\User\source\repos\React\bin\System.Net.Http.Formatting.dll
+C:\Users\User\source\repos\React\bin\System.Web.Helpers.dll
+C:\Users\User\source\repos\React\bin\System.Web.Http.dll
+C:\Users\User\source\repos\React\bin\System.Web.Http.WebHost.dll
+C:\Users\User\source\repos\React\bin\System.Web.Mvc.dll
+C:\Users\User\source\repos\React\bin\System.Web.Optimization.dll
+C:\Users\User\source\repos\React\bin\System.Web.Razor.dll
+C:\Users\User\source\repos\React\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\source\repos\React\bin\System.Web.WebPages.dll
+C:\Users\User\source\repos\React\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\source\repos\React\bin\WebGrease.dll
+C:\Users\User\source\repos\React\bin\Newtonsoft.Json.xml
+C:\Users\User\source\repos\React\bin\System.Net.Http.Formatting.xml
+C:\Users\User\source\repos\React\bin\System.Web.Helpers.xml
+C:\Users\User\source\repos\React\bin\System.Web.Http.xml
+C:\Users\User\source\repos\React\bin\System.Web.Http.WebHost.xml
+C:\Users\User\source\repos\React\bin\System.Web.Mvc.xml
+C:\Users\User\source\repos\React\bin\System.Web.Optimization.xml
+C:\Users\User\source\repos\React\bin\System.Web.Razor.xml
+C:\Users\User\source\repos\React\bin\System.Web.WebPages.xml
+C:\Users\User\source\repos\React\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\source\repos\React\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\source\repos\React\bin\Antlr3.Runtime.pdb
+C:\Users\User\source\repos\React\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\source\repos\React\obj\Debug\React.csprojAssemblyReference.cache
+C:\Users\User\source\repos\React\obj\Debug\React.csproj.CopyComplete
+C:\Users\User\source\repos\React\obj\Debug\React.dll
+C:\Users\User\source\repos\React\obj\Debug\React.pdb
+C:\Users\User\source\repos\React\bin\System.Web.Cors.dll
+C:\Users\User\source\repos\React\bin\System.Web.Http.Cors.dll
+C:\Users\User\source\repos\React\bin\System.Web.Http.Cors.xml
+H:\React\obj\Debug\React.csprojAssemblyReference.cache
+H:\React\obj\Debug\React.dll
+H:\React\obj\Debug\React.pdb
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\React.dll.config
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\React.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\React.pdb
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\roslyn\csc.exe
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\roslyn\csc.exe.config
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\roslyn\csc.rsp
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\roslyn\csi.exe
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\roslyn\csi.exe.config
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\roslyn\csi.rsp
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\roslyn\System.AppContext.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\roslyn\System.Console.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\roslyn\System.IO.Compression.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\roslyn\System.IO.Pipes.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\roslyn\System.Security.Claims.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\roslyn\System.ValueTuple.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\roslyn\vbc.exe
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\roslyn\vbc.exe.config
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\roslyn\vbc.rsp
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\roslyn\VBCSCompiler.exe
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\Antlr3.Runtime.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\Newtonsoft.Json.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Net.Http.Formatting.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Web.Cors.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Web.Helpers.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Web.Http.Cors.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Web.Http.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Web.Http.WebHost.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Web.Mvc.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Web.Optimization.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Web.Razor.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Web.WebPages.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Web.WebPages.Razor.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\WebGrease.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Web.Http.Cors.xml
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\Newtonsoft.Json.xml
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Net.Http.Formatting.xml
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Web.Helpers.xml
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Web.Http.xml
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Web.Http.WebHost.xml
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Web.Mvc.xml
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Web.Optimization.xml
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Web.Razor.xml
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Web.WebPages.xml
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Web.WebPages.Razor.xml
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\Antlr3.Runtime.pdb
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\obj\Debug\React.csprojResolveAssemblyReference.cache
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\obj\Debug\React.csproj.CoreCompileInputs.cache
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\obj\Debug\React.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\obj\Debug\React.pdb
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\Microsoft.Win32.Primitives.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\netstandard.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.AppContext.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Collections.Concurrent.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Collections.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Collections.NonGeneric.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Collections.Specialized.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.ComponentModel.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.ComponentModel.Primitives.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Console.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Data.Common.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Diagnostics.Contracts.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Diagnostics.Debug.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Diagnostics.Process.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Diagnostics.StackTrace.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Diagnostics.Tools.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Diagnostics.TraceSource.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Diagnostics.Tracing.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Drawing.Primitives.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Dynamic.Runtime.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Globalization.Calendars.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Globalization.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Globalization.Extensions.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.IO.Compression.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.IO.Compression.ZipFile.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.IO.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.IO.FileSystem.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.IO.IsolatedStorage.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.IO.Pipes.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Linq.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Linq.Expressions.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Linq.Parallel.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Linq.Queryable.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Net.Http.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Net.NameResolution.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Net.NetworkInformation.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Net.Ping.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Net.Primitives.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Net.Requests.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Net.Security.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Net.Sockets.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Net.WebHeaderCollection.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Net.WebSockets.Client.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Net.WebSockets.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.ObjectModel.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Reflection.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Reflection.Extensions.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Reflection.Primitives.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Resources.Reader.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Resources.ResourceManager.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Resources.Writer.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Runtime.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Runtime.Extensions.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Runtime.Handles.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Runtime.InteropServices.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Runtime.Numerics.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Runtime.Serialization.Json.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Security.Claims.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Security.Cryptography.Csp.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Security.Principal.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Security.SecureString.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Text.Encoding.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Text.Encoding.Extensions.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Text.RegularExpressions.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Threading.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Threading.Overlapped.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Threading.Tasks.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Threading.Thread.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Threading.ThreadPool.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Threading.Timer.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.ValueTuple.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Xml.ReaderWriter.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Xml.XDocument.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Xml.XmlDocument.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Xml.XmlSerializer.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Xml.XPath.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Xml.XPath.XDocument.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\EntityFramework.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\EntityFramework.SqlServer.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\Microsoft.Extensions.Logging.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\Microsoft.Extensions.Options.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Buffers.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Collections.Immutable.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.ComponentModel.Annotations.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Memory.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Numerics.Vectors.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\EntityFramework.xml
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\EntityFramework.SqlServer.xml
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\Microsoft.Extensions.Logging.xml
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\Microsoft.Extensions.Options.xml
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Buffers.xml
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Collections.Immutable.xml
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Memory.xml
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Numerics.Vectors.xml
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sari\Documents\year3\react\less7\פרויקט React-c#\bin\System.Threading.Tasks.Extensions.xml
