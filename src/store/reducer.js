@@ -1,3 +1,5 @@
+import Axios from "axios";
+
 const initialState={
     songs:[]
 }
@@ -14,9 +16,11 @@ const rootReducer=(state=initialState,action)=>{
                     counter:state.counter-1
                 };  
                 case 'EDIT':
+                    debugger;
+                    console.log(action.value)
             return{
                 ...state,
-                counter:state.counter-action.value
+                songs:action.value
             }; 
             case 'LOAD':
                 console.log('load')

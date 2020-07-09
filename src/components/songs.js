@@ -6,16 +6,27 @@ import {connect}from 'react-redux'
 class Songs extends Component{
 
     state={
-songs:[],
+
 selectedSong:null
     }
+// constructor(){
+//     super();
+//     axios.get('/gets').then(x=>{
+//         this.setState({songs:x.data})
+//         this.props.onload(x.data)
+//        })
+// }
+
     componentDidMount(){
-        axios.get('/gets').then(x=>{
-             this.setState({songs:x.data})
+        debugger;
+        console.log(this.props.songs);
+        if(this.props.songs==0){
+            axios.get('/gets').then(x=>{
              this.props.onload(x.data)
             })
               
-            
+                   }
+         
          };
      
 selectedHandler=(id)=>{
@@ -25,7 +36,7 @@ console.log(id);
 
 render(){
 
-const son= this.state.songs.map(s=>{
+const son= this.props.songs.map(s=>{
     return <Song name={s.name} key={s.id} USername={s.USername} year={s.year} clicked={()=>{this.selectedHandler(s.id)}}></Song>
   })
 return(
@@ -43,6 +54,9 @@ return(
 }
 
 }
+const mapStateToProps=state=>{
+    return{songs: state.songs};
+  }
 const mapDispatchToProps = dispatch => {
     return {
         onload: (value) => dispatch({ type: 'LOAD',value:value }),
@@ -51,4 +65,4 @@ const mapDispatchToProps = dispatch => {
         clickedSubtract: (value) => dispatch({ type: 'lOAD', value:value })
     }
 }
-export default connect(null,mapDispatchToProps)(Songs)
+export default connect(mapStateToProps,mapDispatchToProps)(Songs)

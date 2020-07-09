@@ -1,5 +1,6 @@
 import React,{ Component} from 'react'
 import { connect } from 'react-redux'
+import axios from '../axios'
 class EditSong extends Component{
 state={
 selectedSong:{
@@ -12,7 +13,7 @@ selectedSong:{
 }
 
 componentDidUpdate(){
-    debugger;
+   
     if(this.props.id)
     if(!this.state.selectedSong||(this.state.selectedSong&&this.state.selectedSong.id!==this.props.id)){
     let songs=this.props.songses.filter(s=>s.id===this.props.id)[0];
@@ -30,20 +31,29 @@ componentDidUpdate(){
    // console.log(this.state.selectedSong)
    }
 }
-// componentDidUpdate(){
-//     debugger;
-//     if(this.props.id)
-//     if(!this.state.selectedSong||(this.state.selectedSong&&this.state.selectedSong.id!==this.props.id)){
-//     let songs= this.props.songses;
-//     songs=songs.filter(s=>s.id===this.props.id);
-//     console.log(...songs)
-//     this.setState({selectedSong:songs})
-//     console.log(this.state.selectedSong)
-//     //this.setState({selectedSong:this.props.songses.filter(s=>s.id===this.props.id)})
-//    // console.log(this.state.selectedSong)
-//    }
-   
 
+
+
+
+editSongHandler=(song)=>{
+    debugger;
+    axios.put('/puts',song).then(x=>{
+         this.props.editSong(x.data)
+        })
+          
+        
+     };
+     inputChange=(event)=>{
+         debugger;
+        const newsong={...this.state.selectedSong};
+        const id=event.target.id;
+        newsong[id]=event.target.value;
+        //const songChange=newsong[event.target.id];
+        //songChange=event.target.value;
+       // newsong[event.target.id]=songChange;
+
+this.setState({selectedSong:newsong});
+    }
 
 
 
@@ -57,12 +67,13 @@ render(){
         <div className="edit">
 <form>
     <label>שם</label>
-    <input className="inputs" type="text" value={this.state.selectedSong.name}/>
+    <input className="inputs" id="name" type="text" defaultValue={this.state.selectedSong.name} onChange={(event)=>this.inputChange(event)}/>
     <label >זמר</label>
-    <input className="inputs" type="text" value={this.state.selectedSong.USername}/>
+    <input className="inputs" id="USername" type="text" defaultValue={this.state.selectedSong.USername} onChange={(event)=>this.inputChange(event)}/>
     <label>נוצר בשנת</label>
-    <input className="inputs" type="text" value={this.state.selectedSong.year}/> 
-    <button className="btn">שמירה</button>
+    <input className="inputs" id="year" type="text" defaultValue={this.state.selectedSong.year} onChange={(event)=>this.inputChange(event)}/> 
+
+    <button className="btn" onClick={()=>this.editSongHandler(this.state.selectedSong)} >שמירה</button>
     <button className="btn">ביטול</button>
 </form>
         </div>
@@ -74,4 +85,8 @@ render(){
 const mapStateToProps=state=>{
   return{songses: state.songs};
 }
-export default connect(mapStateToProps)(EditSong)
+const mapDispatchToProps = dispatch => {
+    return {
+        editSong: (value) => dispatch({ type: 'EDIT' ,value:value}),
+    }}
+export default connect(mapStateToProps,mapDispatchToProps)(EditSong)
