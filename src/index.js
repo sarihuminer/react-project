@@ -6,13 +6,22 @@ import * as serviceWorker from './serviceWorker';
 import {createStore} from 'redux'
 import rootReducer from './store/reducer'
 import {Provider} from 'react-redux'
+import { Route, Link, BrowserRouter as Router } from 'react-router-dom'
+import NewSong from './components/newSong'
 
 const store=createStore(rootReducer);
 
 ReactDOM.render(
   <React.StrictMode>
    <Provider store={store}>
-   <App />
+   <Router>
+    <div>
+      <Route path="/" component={App} exact/>
+      <Route path="/new" component={NewSong} />
+      <Link to="">Contact</Link>
+    </div>
+  </Router>
+    
      </Provider> 
   </React.StrictMode>,
   document.getElementById('root')
